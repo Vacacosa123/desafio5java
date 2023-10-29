@@ -1,0 +1,23 @@
+.otracosa{
+    display: flex;
+    justify-content: space-between;
+}
+
+.caja{
+    border: solid black 2px;
+    
+}
+
+.mostrartarea{
+   
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+
+
+    
